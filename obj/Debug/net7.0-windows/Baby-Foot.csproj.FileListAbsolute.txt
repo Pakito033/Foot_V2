@@ -1,0 +1,44 @@
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\baby-foot.exe
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\baby-foot.deps.json
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\baby-foot.runtimeconfig.json
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\baby-foot.dll
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\baby-foot.pdb
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tendry\baby-foot\bin\Debug\net7.0-windows\Npgsql.dll
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.csproj.AssemblyReference.cache
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.AssemblyInfoInputs.cache
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.AssemblyInfo.cs
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.csproj.CoreCompileInputs.cache
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.csproj.CopyComplete
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.dll
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\refint\baby-foot.dll
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.pdb
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.genruntimeconfig.cache
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\ref\baby-foot.dll
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby_foot.FormPlayer.resources
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby-foot.csproj.GenerateResource.cache
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby_foot.Bet.resources
+D:\Tendry\baby-foot\obj\Debug\net7.0-windows\baby_foot.BabyFoot.resources
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\baby-foot.exe
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\baby-foot.deps.json
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\baby-foot.runtimeconfig.json
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\baby-foot.dll
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\baby-foot.pdb
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby_foot.BabyFoot.resources
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby_foot.Bet.resources
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby_foot.FormPlayer.resources
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.csproj.GenerateResource.cache
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.AssemblyInfo.cs
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.csproj.CopyComplete
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.dll
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\refint\baby-foot.dll
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.pdb
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\baby-foot.genruntimeconfig.cache
+C:\Users\Tim\Documents\Mr. Tahina\Dotnet\Baby-Foot\obj\Debug\net7.0-windows\ref\baby-foot.dll
